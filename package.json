@@ -21,11 +21,11 @@
   "license": "MIT",
   "name": "@sinkaroid/dockex",
   "optionalDependencies": {
-    "@sinkaroid/dockex-darwin-arm64": "1.0.10",
-    "@sinkaroid/dockex-darwin-x64": "1.0.10",
-    "@sinkaroid/dockex-linux-arm64": "1.0.10",
-    "@sinkaroid/dockex-linux-x64": "1.0.10",
-    "@sinkaroid/dockex-win32-x64": "1.0.10"
+    "@sinkaroid/dockex-darwin-arm64": "1.0.11",
+    "@sinkaroid/dockex-darwin-x64": "1.0.11",
+    "@sinkaroid/dockex-linux-arm64": "1.0.11",
+    "@sinkaroid/dockex-linux-x64": "1.0.11",
+    "@sinkaroid/dockex-win32-x64": "1.0.11"
   },
   "publishConfig": {
     "access": "public"
@@ -38,5 +38,5 @@
     "build": "cargo build --release",
     "test": "node bin/dockex.js --help"
   },
-  "version": "1.0.10"
+  "version": "1.0.11"
 }
