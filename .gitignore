@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+npm/
+
+# Rust build output
+target/
+
+# Build Output
+dist/
+bin/dockex.exe
+bin/dockex
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment & OS files
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Project planning & local chat (AGENTS.md is tracked)
+PRD.md
+chat.md
+

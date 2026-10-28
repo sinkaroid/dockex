@@ -1,0 +1,11 @@
+# Source and dev config
+src/
+tsconfig.json
+bun.lock
+bun.lockb
+.github/
+.git/
+.gitignore
+CLI_PKG.md
+*.log
+
